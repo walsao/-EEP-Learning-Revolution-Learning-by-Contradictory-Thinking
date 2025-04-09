@@ -71,7 +71,7 @@ Let’s connect and revolutionize learning together.
 
 🧠 Attribution
 
-This project, the EEP-Learning Revolution, and the theory of Contradictory Thinking as an Engine of Learning were conceptualized and developed by [Your Name] on April 9, 2025.
+This project, the EEP-Learning Revolution, and the theory of Contradictory Thinking as an Engine of Learning were conceptualized and developed by [Walter Lettau] on April 9, 2025.
 
 ⸻
 
