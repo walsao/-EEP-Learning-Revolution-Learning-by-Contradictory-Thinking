@@ -85,3 +85,7 @@ MIT License — knowledge wants to flow dynamically.
 
 Contradictions are not errors.
 Contradictions are the birthplace of meaning.
+---
+## 📚 Related Projects
+
+- [EEP-AI Microbrain](https://github.com/YOURUSERNAME/eep-microbrain): Scientific foundation demonstrating emergent meaning from relational loss.
