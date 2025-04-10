@@ -1,6 +1,6 @@
 # -EEP-Learning-Revolution-Learning-by-Contradictory-Thinking
 
-Meaning emerges not through answers, but through contradictions
+"Meaning emerges not through answers, but through contradictions" ---
 
 Conceptualized, and introduced by Walter Augusto Lettau, on April 10, 2025.    
 
